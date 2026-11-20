@@ -1,85 +1,83 @@
-# Hi, I'm Khadija 
+# Hi, I'm Khadija Chkhichkh 👋
 
-4th-year Data Engineering student at ENSA Fès very passionate about building scalable data systems, big data pipelines, and turning raw data into meaningful insights alos interested in Data Engineering, Big Data, Business Intelligence, and Data Analytics
+**Final-year Data Science & AI Engineering Student at ENSA Fès | Aspiring Data Engineer**
 
+I'm interested in building data-intensive systems, designing scalable pipelines, and exploring the technologies behind modern data platforms.
 
-## 🧭 About Me
+My focus is on **Data Engineering, Big Data, Distributed Systems, and Cloud Computing**, with additional experience in AI Engineering, Machine Learning, and Data Analytics.
 
-I’m a Data Engineering student focused on designing end-to-end data pipelines and working with large-scale distributed systems.  
-I enjoy combining data engineering with analytics, machine learning, and web technologies to build real-world data-driven solutions.
+## About Me
 
+I'm a final-year engineering student at ENSA Fès, specializing in Data Science and Artificial Intelligence, with a growing focus on Data Engineering.
 
+I enjoy working across the data lifecycle, from data generation and ingestion to processing, orchestration, storage, and analytics. I'm particularly interested in understanding how different technologies come together to build reliable and scalable data systems.
 
-## 🛠️ Tech Stack
+I've had the opportunity to apply these skills through academic projects and professional experience, including developing digital solutions at Nexteer Automotive and building data platforms with technologies such as Kafka, Spark, Airflow, and PostgreSQL.
 
-### 💻 Programming Languages
-`Python` · `SQL` · `R` · `Java` · `C` · `C++` · `JavaScript` · `PHP` · `HTML` · `CSS`
+## Tech Stack
 
-### ⚙️ Big Data & Distributed Systems
-- Apache Spark  
-- Hadoop (HDFS, MapReduce, YARN)  
-- Apache Kafka  
-- Hive  
+**Programming Languages**
+`Python` · `SQL` · `Scala` · `JavaScript` · `Java`
 
-### 🗄️ Databases
-- Oracle  
-- MySQL  
-- MongoDB  
-- Cassandra  
+**Big Data & Distributed Computing**
+`Apache Spark` · `PySpark` · `Spark MLlib` · `GraphX` · `Hadoop` · `HDFS` · `Apache Kafka`
 
-### 📊 Data Engineering & BI
-- Talend (ETL)  
-- Power BI  
-- Tableau  
-- Data modeling (UML, Merise)
+**Data Engineering**
+`Apache Airflow` · `Talend` · `ETL Pipelines` · `Data Warehousing` · `Data Lakes`
 
-### 🤖 Data Science / AI
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Scikit-learn  
-- TensorFlow  
+**Databases**
+`PostgreSQL` · `MySQL` · `SQL Server` · `MongoDB` · `ChromaDB`
 
-### 🌐 Web & Dev Tools
-- React  
-- Node.js  
-- Flask  
-- Docker  
-- Kubernetes  
-- AWS (basic cloud experience)
+**Cloud & DevOps**
+`AWS (EC2, S3, RDS, VPC, IAM)` · `Docker` · `Linux` · `Git` · `GitHub Actions`
 
+**AI & Machine Learning**
+`Scikit-learn` · `TensorFlow` · `PyTorch` · `Pandas` · `NumPy` · `NLP` · `LLMs` · `RAG` · `MLOps`
 
+**Development & Automation**
+`FastAPI` · `Flask` · `React.js` · `Node.js` · `Power Apps` · `Power Automate`
 
-## 🎯 Focus Areas
+## Featured Projects
 
-- Big Data pipeline architecture  
-- ETL processes and data integration  
-- Business Intelligence dashboards  
-- Data analysis and visualization  
-- Machine Learning applied to data systems  
-- Web integration for data-driven applications  
+**Banking Data Engineering & Fraud Detection Platform**
 
+A simulated banking data platform built with Python, PostgreSQL, Apache Kafka, and Apache Airflow, generating and managing 13 million transactions through relational data modeling and orchestrated pipelines.
 
-## 🚀 Goal
+**Investment Mandate Compliance Agent**
 
-To build scalable, efficient, and intelligent data systems that transform raw data into actionable insights.
+An Agentic AI system combining RAG, semantic search, vector databases, tool calling, deterministic validation, and Human-in-the-Loop workflows, with an MLOps pipeline for reproducibility.
 
+**ATP Tennis Tournament Analysis**
 
+Distributed graph analysis of ATP tournaments using Spark GraphX and GraphFrames, exploring PageRank, connected components, and player relationships across more than 10,000 vertices.
 
-## 📌 Current Direction
+**SNCF Data Warehouse & Analytics**
 
-- Improving Data Engineering system design skills  
-- Working on real-world big data pipelines  
-- Strengthening cloud & distributed systems knowledge  
-- Building portfolio projects around data + AI + web  
+A decision-support solution built around a data warehouse using Talend, MySQL, and SQL Server, with Power BI dashboards for revenue, demand, customer, and sales analysis.
 
+## Professional Experience
 
+**Nexteer Automotive — Data Engineer Intern**
 
-## 📫 Contact
+Developed and deployed digital HSE solutions, including an inspection management application and ChemCheck, an AI-assisted chemical risk assessment platform using a local Llama 3.1 model and FastAPI.
 
-- GitHub: https://github.com/SilverFangXk
-- LinkedIn: www.linkedin.com/in/khadija-chkhichkh
-- Email: khadijachkhichkh1@gmail.com
+**Safe Consulting — Software Development Intern**
 
+Designed and developed a full-stack stock management application using Flask, MySQL, HTML, CSS, and JavaScript.
 
+## Current Focus
 
-⭐ Always learning, always building.
+- Building scalable data pipelines and distributed data processing systems.
+- Exploring data lake architectures and modern data engineering workflows.
+- Strengthening cloud engineering and infrastructure skills.
+- Learning more about data orchestration, automation, and MLOps.
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/khadija-chkhichkh/)
+- [GitHub](https://github.com/SilverFangXk)
+- [Email](mailto:khadijachkhichkh1@gmail.com)
+
+---
+
+*Always learning, experimenting, and building.*
